@@ -10,5 +10,9 @@ public class Test2 {
 	{
 		System.out.println("This is a method2");
 	}
+	public void test(int a)
+	{
+		System.out.println("This is method 3");
+	}
 
 }
