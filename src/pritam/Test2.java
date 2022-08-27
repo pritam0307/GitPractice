@@ -6,5 +6,9 @@ public class Test2 {
 	{
 		System.out.println("This is a method");
 	}
+	public void test(String s)
+	{
+		System.out.println("This is a method2");
+	}
 
 }
